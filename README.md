@@ -24,6 +24,6 @@ I'm a **PhD student in Natural Language Processing (NLP)** at Durham University 
 
 ## 📫 Let's Connect!
 I'm always happy to collaborate, discuss exciting research ideas, or just have a casual chat about NLP, education, or science communication!  
-Feel free to reach out through my [personal website](seanfarr788.gihub.io) or [Linkedin](linkedin.com/in/seanoliverfarrell).
+Feel free to reach out through my [personal website](https://seanfarr788.github.io) or [Linkedin](https://linkedin.com/in/seanoliverfarrell).
 
 ---
