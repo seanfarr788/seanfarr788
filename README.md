@@ -8,9 +8,9 @@ I'm a **PhD student in Natural Language Processing (NLP)** at Durham University 
 - Exploring the **correlation between antimicrobial use and behavioral changes** in animals.
 
 ## 🎓 Academic Highlights
-- Published my first paper as an undergrad, featured in my university's newspaper.
+- Published three papers as an undergrad
 - Teaching NLP to master's students, from **beginner Python coders** to advanced computer science cohorts.
-- Active in workshops and conferences like ACL, focusing on applied bio NLP.
+- Multiple awards in public speaking
 
 ## 💡 Interests
 - **Sentence transformers** and their use in domain-specific NLP tasks.
